@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependentLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:background_element="$graphic:button_bg">
+
+    <Image
+        ohos:id="$id:text_helloworld"
+        ohos:height="100vp"
+        ohos:width="100vp"
+        ohos:horizontal_center="true"/>
+</DependentLayout>
